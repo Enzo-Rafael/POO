@@ -1,0 +1,26 @@
+C:\Users\Enzo Alves\Desktop\POO\3A2ENZO10\obj\Debug\3A2ENZO10.csprojAssemblyReference.cache
+C:\Users\Enzo Alves\Desktop\POO\3A2ENZO10\obj\Debug\_3A2ENZO10.Form1.resources
+C:\Users\Enzo Alves\Desktop\POO\3A2ENZO10\obj\Debug\_3A2ENZO10.Properties.Resources.resources
+C:\Users\Enzo Alves\Desktop\POO\3A2ENZO10\obj\Debug\3A2ENZO10.csproj.GenerateResource.cache
+C:\Users\Enzo Alves\Desktop\POO\3A2ENZO10\obj\Debug\3A2ENZO10.csproj.CoreCompileInputs.cache
+C:\Users\Enzo Alves\Desktop\POO\3A2ENZO10\bin\Debug\3A2ENZO10.exe.config
+C:\Users\Enzo Alves\Desktop\POO\3A2ENZO10\bin\Debug\3A2ENZO10.exe
+C:\Users\Enzo Alves\Desktop\POO\3A2ENZO10\bin\Debug\3A2ENZO10.pdb
+C:\Users\Enzo Alves\Desktop\POO\3A2ENZO10\obj\Debug\_3A2ENZO10.Formgastos.resources
+C:\Users\Enzo Alves\Desktop\POO\3A2ENZO10\obj\Debug\3A2ENZO10.exe
+C:\Users\Enzo Alves\Desktop\POO\3A2ENZO10\obj\Debug\3A2ENZO10.pdb
+C:\Users\Enzo Alves\Desktop\POO\3A2ENZO10\obj\Debug\_3A2ENZO10.ForIPVA.resources
+C:\Users\Enzo Alves\Desktop\POO\3A2ENZO10\obj\Debug\_3A2ENZO10.ForREVISÃO.resources
+E:\Escola\sites\POO\3A2ENZO10\bin\Debug\3A2ENZO10.exe.config
+E:\Escola\sites\POO\3A2ENZO10\bin\Debug\3A2ENZO10.exe
+E:\Escola\sites\POO\3A2ENZO10\bin\Debug\3A2ENZO10.pdb
+E:\Escola\sites\POO\3A2ENZO10\obj\Debug\3A2ENZO10.csproj.AssemblyReference.cache
+E:\Escola\sites\POO\3A2ENZO10\obj\Debug\_3A2ENZO10.ForIPVA.resources
+E:\Escola\sites\POO\3A2ENZO10\obj\Debug\_3A2ENZO10.Form1.resources
+E:\Escola\sites\POO\3A2ENZO10\obj\Debug\_3A2ENZO10.Formgastos.resources
+E:\Escola\sites\POO\3A2ENZO10\obj\Debug\_3A2ENZO10.ForREVISÃO.resources
+E:\Escola\sites\POO\3A2ENZO10\obj\Debug\_3A2ENZO10.Properties.Resources.resources
+E:\Escola\sites\POO\3A2ENZO10\obj\Debug\3A2ENZO10.csproj.GenerateResource.cache
+E:\Escola\sites\POO\3A2ENZO10\obj\Debug\3A2ENZO10.csproj.CoreCompileInputs.cache
+E:\Escola\sites\POO\3A2ENZO10\obj\Debug\3A2ENZO10.exe
+E:\Escola\sites\POO\3A2ENZO10\obj\Debug\3A2ENZO10.pdb
